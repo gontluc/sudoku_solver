@@ -39,3 +39,7 @@ Observations:
 * Game 1 best at 10 fps.
 
 * Can change games at the bottom of the code. Three posible games.
+
+* Probably has some code that could be done better and more efficient.
+
+* Good learning experience.
