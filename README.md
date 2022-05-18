@@ -14,7 +14,7 @@ Main file: **sudoku_visualizer.py**
 
 ---
 
-OBJECTIVE: Build a sudoku solver using backtracking algorithm and display steps in a GUI while solving.
+OBJECTIVE: Build a sudoku solver using backtracking algorithm while displaying steps on a GUI.
 
 ---
 
